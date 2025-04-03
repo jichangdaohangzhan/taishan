@@ -171,7 +171,7 @@
 
 </details></section>
 
-如需要查看更多相关文章，移步[最新机场推荐汇总，好用机场导航](https://github.com/jichangdaohangzhan/jichanghuizong)，在此篇文章中，详尽介绍了 泰山机场注册、优惠码、套餐、测试与它的客户端支持，及其用户的常见问题，希望能对您有所帮助。
+如需要查看更多相关文章，移步[最新机场推荐汇总，好用机场导航](https://github.com/jichangdaohangzhan/jichanghuizong)，在此篇文章中，详尽介绍了 [泰山机场](https://www.jichang8.com/ji-chang-guide/tai-shan-ji-chang.html)注册、优惠码、套餐、测试与它的客户端支持，及其用户的常见问题，希望能对您有所帮助。
 
 
 
